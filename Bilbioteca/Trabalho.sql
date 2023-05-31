@@ -29,9 +29,9 @@ insert into livros values ("00004-A", "Na esperança da morte", 123456780, "3013
 insert into livros values ("00005-A", "Busca do Edel", 123456781, "30130184-E", 2023);
 insert into livros values ("000026-A", "123 Casinha", 123456781, "30930184-D", 2023);
 # Autores ------------------------
-insert into autores values (123456789, "David Henrique de Souza Lima", 1955-02-11, "Brasileiro");
-insert into autores values (123456780, "Luis Henrique de Souza Lima", 1956-03-30, "Brasileiro");
-insert into autores values (123456781, "João Henrique de Souza Lima", 1957-02-30, "Brasileiro");
+insert into autores values (123456789, "David Henrique de Souza Lima", "1955-02-11", "Brasileiro");
+insert into autores values (123456780, "Luis Henrique de Souza Lima", "1956-03-30", "Brasileiro");
+insert into autores values (123456781, "João Henrique de Souza Lima", "1957-02-2", "Brasileiro");
 
 insert into categoria values ("30130184-A", "Romance");
 insert into categoria values ("30130184-B", "Mistério");
