@@ -5,7 +5,7 @@ create table livros(
     titulo varchar(50),
     id_autor int,
     id_categoria varchar(50),
-    ano_publicação int
+    ano_publicacao int
 );
 
 create table autores(
